@@ -19,7 +19,7 @@ function App() {
             style={{ fontFamily: "Quicksand, sans-serif" }}
             className="xl:text-[38px] w-[90%]  m-auto text-[28px] text-center font-bold"
           >
-            What Will You Get From This Book
+            What Will You Get From This Book?
           </p>
           <p className="text-center flex justify-center text-[19px] w-[90%] xl:w-[48%] lg:w-[80%] md:w-[85%] m-auto mt-5 text-[#4c527d]">
             Section intro goes here. Lorem ipsum dolor sit amet, consectetur
